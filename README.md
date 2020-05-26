@@ -4,4 +4,4 @@
 ~~naiad linux用のイースターエッグ。正しい日本語を怪しい日本語に変換します。~~
 
 ~~使用したAPI：~~
-~~https://correctjp.work/API ~~
+~~https://correctjp.work/API~~
